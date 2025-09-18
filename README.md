@@ -53,6 +53,17 @@ O script cria o cluster `mycluster`, builda a imagem `php-apache-k8s:v1`, import
   ```
   Observação: enquanto o tráfego passa pelo Traefik, ele é o principal consumidor de CPU. Ao direcionar o tráfego via port-forward, a carga também aparece no pod `php-apache`.
 
+## Entendendo as métricas
+- **CPU(cores)**: valor em millicores (m) devolvido pelo Metrics Server. `2525m` equivale a ~2,5 vCPUs ocupadas em tempo real. Esse pico foi observado no pod do Traefik porque o teste apontou para `http://localhost:8080/` sem port-forward, fazendo o balanceador processar todas as requisições. Quando o tráfego é redirecionado para o Service com `kubectl port-forward`, o consumo de `php-apache` sobe (ex.: `120m` ≈ 0,12 vCPU), evidenciando o impacto direto da carga na aplicação.
+- **CPU(%)** nos nodes: percentual relativo à capacidade total daquele nó. Os nós `k3d` têm por padrão 8 vCPUs. Assim, o valor de `32%` no `k3d-mycluster-agent-1` representa aproximadamente `0,32 × 8 ≈ 2,5` vCPUs ativas, coerente com os `2525m` reportados no Traefik. Valores próximos de zero nos outros nós indicam que o scheduler concentrou o deployment alvo em um único worker.
+- **MEMORY(bytes)**: memória residente usada pelo processo. No teste, `173Mi` no Traefik mostra que mesmo sob carga a utilização ficou bem abaixo de “limites” (nenhum limite explícito configurado). Já o pod PHP ficou em ~`10Mi`, sinalizando que a aplicação é leve e a pressão principal é CPU.
+- **MEMORY(%)**: percentual da RAM disponível no nó. `3%` em `k3d-mycluster-agent-1` indica que ainda existe ampla folga; mesmo com ~500 Mi usados, o nó tem vários GiB livres. Monitorar esse número ajuda a identificar gargalos de memória que poderiam impedir o HPA de escalar.
+- **Eventos do HPA**: saídas como `SuccessfulRescale` em `kubectl describe hpa` confirmam que a média de CPU ultrapassou a meta (`50%` de 100m = 50m). Se o HPA continua em `AbleToScale=True` e `ScalingLimited=False`, significa que as réplicas estão acompanhando a demanda.
+- **Logs gerados pelos scripts**:
+  - `20_hpa_watch.log`: registra, a cada intervalo, o `CURRENT / TARGET` do HPA para evidenciar quando a CPU passa de zero.
+  - `21_top_nodes_watch.log` e `22_top_pods_watch.log`: preservam o histórico de consumo para anexar à entrega.
+  - `23_metrics_api_default.jsonl`: resposta crua de `metrics.k8s.io`, útil para comprovar que os valores em millicores foram capturados diretamente da API.
+
 ## Validando o HPA
 ```bash
 kubectl describe hpa php-apache-hpa
