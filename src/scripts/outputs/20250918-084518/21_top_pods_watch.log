@@ -1,0 +1,12 @@
+=== qui 18 set 2025 08:45:21 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 45h48m24.635363185s
+=== qui 18 set 2025 08:45:26 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 45h48m29.787523949s
+=== qui 18 set 2025 08:45:31 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 45h48m35.067516873s
+=== qui 18 set 2025 08:45:37 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 45h48m40.175823195s
+=== qui 18 set 2025 08:45:42 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 45h48m45.285223037s
+=== qui 18 set 2025 08:45:47 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 45h48m50.413624772s

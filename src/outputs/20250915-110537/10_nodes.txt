@@ -1,0 +1,4 @@
+NAME                     STATUS   ROLES                  AGE   VERSION
+k3d-mycluster-agent-0    Ready    <none>                 40m   v1.31.5+k3s1
+k3d-mycluster-agent-1    Ready    <none>                 40m   v1.31.5+k3s1
+k3d-mycluster-server-0   Ready    control-plane,master   41m   v1.31.5+k3s1

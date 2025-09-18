@@ -1,0 +1,300 @@
+=== ter 16 set 2025 11:41:49 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 44m52.329319004s
+=== ter 16 set 2025 11:41:54 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 44m57.376219871s
+=== ter 16 set 2025 11:41:59 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 45m2.433291309s
+=== ter 16 set 2025 11:42:04 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 45m7.484158147s
+=== ter 16 set 2025 11:42:09 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 45m12.553148905s
+=== ter 16 set 2025 11:42:14 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 45m17.599290498s
+=== ter 16 set 2025 11:42:19 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 45m22.643806205s
+=== ter 16 set 2025 11:42:24 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 45m27.68658182s
+=== ter 16 set 2025 11:42:29 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 45m32.737048522s
+=== ter 16 set 2025 11:42:34 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 45m37.785496801s
+=== ter 16 set 2025 11:42:39 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 45m42.8354267s
+=== ter 16 set 2025 11:42:44 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 45m47.891721242s
+=== ter 16 set 2025 11:42:49 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 45m52.938805244s
+=== ter 16 set 2025 11:42:54 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 45m57.985008831s
+=== ter 16 set 2025 11:42:59 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 46m3.02823681s
+=== ter 16 set 2025 11:43:05 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 46m8.072734298s
+=== ter 16 set 2025 11:43:10 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 46m13.116176427s
+=== ter 16 set 2025 11:43:15 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 46m18.175974923s
+=== ter 16 set 2025 11:43:20 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 46m23.355073135s
+=== ter 16 set 2025 11:43:25 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 46m28.396204219s
+=== ter 16 set 2025 11:43:30 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 46m33.438549246s
+=== ter 16 set 2025 11:43:35 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 46m38.481508533s
+=== ter 16 set 2025 11:43:40 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 46m43.52418875s
+=== ter 16 set 2025 11:43:45 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 46m48.569834056s
+=== ter 16 set 2025 11:43:50 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 46m53.612849781s
+=== ter 16 set 2025 11:43:55 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 46m58.654861674s
+=== ter 16 set 2025 11:44:00 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 47m3.69738175s
+=== ter 16 set 2025 11:44:05 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 47m8.740446754s
+=== ter 16 set 2025 11:44:10 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 47m15.231613249s
+=== ter 16 set 2025 11:44:17 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 47m20.319668121s
+=== ter 16 set 2025 11:44:22 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 47m25.375217134s
+=== ter 16 set 2025 11:44:27 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 47m30.416710758s
+=== ter 16 set 2025 11:44:32 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 47m35.457401587s
+=== ter 16 set 2025 11:44:37 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 47m40.498801959s
+=== ter 16 set 2025 11:44:42 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 47m45.540457553s
+=== ter 16 set 2025 11:44:47 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 47m50.58371045s
+=== ter 16 set 2025 11:44:52 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 47m55.627239799s
+=== ter 16 set 2025 11:44:57 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 48m0.669183228s
+=== ter 16 set 2025 11:45:02 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 48m5.712493551s
+=== ter 16 set 2025 11:45:07 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 48m10.759221297s
+=== ter 16 set 2025 11:45:12 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 48m15.801559918s
+=== ter 16 set 2025 11:45:17 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 48m20.844770582s
+=== ter 16 set 2025 11:45:22 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 48m25.888463178s
+=== ter 16 set 2025 11:45:27 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 48m30.9387907s
+=== ter 16 set 2025 11:45:32 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 48m35.9856625s
+=== ter 16 set 2025 11:45:37 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 48m41.033341353s
+=== ter 16 set 2025 11:45:43 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 48m46.083603119s
+=== ter 16 set 2025 11:45:48 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 48m51.129773473s
+=== ter 16 set 2025 11:45:53 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 48m56.175438968s
+=== ter 16 set 2025 11:45:58 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 49m1.224694084s
+=== ter 16 set 2025 11:46:03 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 49m6.268901767s
+=== ter 16 set 2025 11:46:08 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 49m11.31730108s
+=== ter 16 set 2025 11:46:13 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 49m16.361977288s
+=== ter 16 set 2025 11:46:18 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 49m21.407849261s
+=== ter 16 set 2025 11:46:23 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 49m26.454305562s
+=== ter 16 set 2025 11:46:28 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 49m31.502499925s
+=== ter 16 set 2025 11:46:33 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 49m36.548191949s
+=== ter 16 set 2025 11:46:38 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 49m41.592743422s
+=== ter 16 set 2025 11:46:43 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 49m46.642148066s
+=== ter 16 set 2025 11:46:48 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 49m51.691706179s
+=== ter 16 set 2025 11:46:53 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 49m56.735584692s
+=== ter 16 set 2025 11:46:58 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 50m1.778193642s
+=== ter 16 set 2025 11:47:03 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 50m6.821493516s
+=== ter 16 set 2025 11:47:08 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 50m11.88023205s
+=== ter 16 set 2025 11:47:13 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 50m17.113886109s
+=== ter 16 set 2025 11:47:19 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 50m22.15683231s
+=== ter 16 set 2025 11:47:24 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 50m27.201132822s
+=== ter 16 set 2025 11:47:29 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 50m32.243975423s
+=== ter 16 set 2025 11:47:34 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 50m37.357493905s
+=== ter 16 set 2025 11:47:39 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 50m43.024786639s
+=== ter 16 set 2025 11:47:45 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 50m48.419576707s
+=== ter 16 set 2025 11:47:50 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 50m53.550211887s
+=== ter 16 set 2025 11:47:55 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 50m58.681557855s
+=== ter 16 set 2025 11:48:00 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 51m4.139110185s
+=== ter 16 set 2025 11:48:06 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 51m9.273141261s
+=== ter 16 set 2025 11:48:11 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 51m14.40538061s
+=== ter 16 set 2025 11:48:16 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 51m19.518558753s
+=== ter 16 set 2025 11:48:21 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 51m24.629458569s
+=== ter 16 set 2025 11:48:26 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 51m29.750356671s
+=== ter 16 set 2025 11:48:31 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 51m34.890160127s
+=== ter 16 set 2025 11:48:36 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 51m40.004561067s
+=== ter 16 set 2025 11:48:42 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 51m45.116633863s
+=== ter 16 set 2025 11:48:47 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 51m50.239810192s
+=== ter 16 set 2025 11:48:52 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 51m55.361686234s
+=== ter 16 set 2025 11:48:57 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 52m0.492419861s
+=== ter 16 set 2025 11:49:02 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 52m5.601065111s
+=== ter 16 set 2025 11:49:07 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 52m10.718693351s
+=== ter 16 set 2025 11:49:12 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 52m15.833390856s
+=== ter 16 set 2025 11:49:17 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 52m20.940356121s
+=== ter 16 set 2025 11:49:22 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 52m26.068541087s
+=== ter 16 set 2025 11:49:28 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 52m31.21489245s
+=== ter 16 set 2025 11:49:33 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 52m36.329083485s
+=== ter 16 set 2025 11:49:38 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 52m41.442386442s
+=== ter 16 set 2025 11:49:43 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 52m46.496552536s
+=== ter 16 set 2025 11:49:48 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 52m51.546769199s
+=== ter 16 set 2025 11:49:53 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 52m57.927559448s
+=== ter 16 set 2025 11:49:59 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 53m2.970385309s
+=== ter 16 set 2025 11:50:04 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 53m8.019469331s
+=== ter 16 set 2025 11:50:10 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 53m13.068373155s
+=== ter 16 set 2025 11:50:15 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 53m18.116684835s
+=== ter 16 set 2025 11:50:20 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 53m23.16557156s
+=== ter 16 set 2025 11:50:25 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 53m28.218666117s
+=== ter 16 set 2025 11:50:30 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 53m33.2625261s
+=== ter 16 set 2025 11:50:35 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 53m38.304145075s
+=== ter 16 set 2025 11:50:40 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 53m43.35320732s
+=== ter 16 set 2025 11:50:45 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 53m48.403701552s
+=== ter 16 set 2025 11:50:50 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 53m53.446628528s
+=== ter 16 set 2025 11:50:55 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 53m58.496616077s
+=== ter 16 set 2025 11:51:00 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 54m3.544012709s
+=== ter 16 set 2025 11:51:05 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 54m8.588541876s
+=== ter 16 set 2025 11:51:10 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 54m13.633528608s
+=== ter 16 set 2025 11:51:15 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 54m18.678676879s
+=== ter 16 set 2025 11:51:20 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 54m23.726618654s
+=== ter 16 set 2025 11:51:25 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 54m28.769907698s
+=== ter 16 set 2025 11:51:30 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 54m33.811174558s
+=== ter 16 set 2025 11:51:35 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 54m38.857125239s
+=== ter 16 set 2025 11:51:40 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 54m43.901299097s
+=== ter 16 set 2025 11:51:45 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 54m48.952299649s
+=== ter 16 set 2025 11:51:50 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 54m53.996382084s
+=== ter 16 set 2025 11:51:56 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 54m59.040650907s
+=== ter 16 set 2025 11:52:01 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 55m4.087095857s
+=== ter 16 set 2025 11:52:06 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 55m9.135089761s
+=== ter 16 set 2025 11:52:11 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 55m14.188433059s
+=== ter 16 set 2025 11:52:16 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 55m19.230195856s
+=== ter 16 set 2025 11:52:21 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 55m24.281272493s
+=== ter 16 set 2025 11:52:26 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 55m29.328301187s
+=== ter 16 set 2025 11:52:31 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 55m34.376657352s
+=== ter 16 set 2025 11:52:36 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 55m39.423794354s
+=== ter 16 set 2025 11:52:41 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 55m44.47748372s
+=== ter 16 set 2025 11:52:46 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 55m49.527066823s
+=== ter 16 set 2025 11:52:51 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 55m54.5721109s
+=== ter 16 set 2025 11:52:56 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 55m59.618343537s
+=== ter 16 set 2025 11:53:01 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 56m4.659631118s
+=== ter 16 set 2025 11:53:06 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 56m9.702750996s
+=== ter 16 set 2025 11:53:11 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 56m14.745602704s
+=== ter 16 set 2025 11:53:16 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 56m19.792470595s
+=== ter 16 set 2025 11:53:21 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 56m24.83617289s
+=== ter 16 set 2025 11:53:26 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 56m29.881121727s
+=== ter 16 set 2025 11:53:31 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 56m34.923760683s
+=== ter 16 set 2025 11:53:36 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 56m39.97041852s
+=== ter 16 set 2025 11:53:41 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 56m45.015305483s
+=== ter 16 set 2025 11:53:47 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 56m50.066726007s
+=== ter 16 set 2025 11:53:52 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 56m55.111764499s
+=== ter 16 set 2025 11:53:57 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 57m0.155838259s
+=== ter 16 set 2025 11:54:02 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 57m5.210749724s
+=== ter 16 set 2025 11:54:07 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 57m10.261517385s
+=== ter 16 set 2025 11:54:12 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 57m15.310814911s
+=== ter 16 set 2025 11:54:17 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 57m20.358686842s
+=== ter 16 set 2025 11:54:22 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 57m25.407768606s
+=== ter 16 set 2025 11:54:27 -03 ===
+error: Metrics not available for pod default/php-apache-deployment-66f8c5bb45-k5dr2, age: 57m30.454296255s

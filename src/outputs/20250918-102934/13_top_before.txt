@@ -1,0 +1,2 @@
+NAME                                     CPU(cores)   MEMORY(bytes)   
+php-apache-deployment-66f8c5bb45-k5dr2   1m           9Mi             

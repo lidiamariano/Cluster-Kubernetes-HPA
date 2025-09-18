@@ -1,0 +1,2 @@
+NAMESPACE   NAME             REFERENCE                          TARGETS              MINPODS   MAXPODS   REPLICAS   AGE
+default     php-apache-hpa   Deployment/php-apache-deployment   cpu: <unknown>/50%   1         5         0          0s

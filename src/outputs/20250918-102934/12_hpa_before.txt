@@ -1,0 +1,2 @@
+NAME             REFERENCE                          TARGETS       MINPODS   MAXPODS   REPLICAS   AGE
+php-apache-hpa   Deployment/php-apache-deployment   cpu: 1%/50%   1         5         1          47h

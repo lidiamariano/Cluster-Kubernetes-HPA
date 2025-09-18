@@ -1,0 +1,24 @@
+[36mINFO[0m[0000] portmapping '8080:80' targets the loadbalancer: defaulting to [servers:*:proxy agents:*:proxy] 
+[36mINFO[0m[0000] Prep: Network                                
+[36mINFO[0m[0000] Created network 'k3d-mycluster'              
+[36mINFO[0m[0000] Created image volume k3d-mycluster-images    
+[36mINFO[0m[0000] Starting new tools node...                   
+[36mINFO[0m[0001] Starting node 'k3d-mycluster-tools'          
+[36mINFO[0m[0001] Creating node 'k3d-mycluster-server-0'       
+[36mINFO[0m[0001] Creating node 'k3d-mycluster-agent-0'        
+[36mINFO[0m[0002] Creating node 'k3d-mycluster-agent-1'        
+[36mINFO[0m[0002] Creating LoadBalancer 'k3d-mycluster-serverlb' 
+[36mINFO[0m[0002] Using the k3d-tools node to gather environment information 
+[36mINFO[0m[0003] HostIP: using network gateway 172.18.0.1 address 
+[36mINFO[0m[0003] Starting cluster 'mycluster'                 
+[36mINFO[0m[0003] Starting servers...                          
+[36mINFO[0m[0003] Starting node 'k3d-mycluster-server-0'       
+[36mINFO[0m[0007] Starting agents...                           
+[36mINFO[0m[0022] Starting node 'k3d-mycluster-agent-1'        
+[36mINFO[0m[0022] Starting node 'k3d-mycluster-agent-0'        
+[36mINFO[0m[0033] Starting helpers...                          
+[36mINFO[0m[0034] Starting node 'k3d-mycluster-serverlb'       
+[36mINFO[0m[0041] Injecting records for hostAliases (incl. host.k3d.internal) and for 4 network members into CoreDNS configmap... 
+[36mINFO[0m[0046] Cluster 'mycluster' created successfully!    
+[36mINFO[0m[0047] You can now use it like this:                
+kubectl cluster-info

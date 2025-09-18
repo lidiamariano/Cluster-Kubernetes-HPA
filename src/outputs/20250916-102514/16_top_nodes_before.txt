@@ -1,0 +1,4 @@
+NAME                     CPU(cores)   CPU(%)   MEMORY(bytes)   MEMORY(%)   
+k3d-mycluster-agent-0    50m          0%       156Mi           0%          
+k3d-mycluster-agent-1    48m          0%       204Mi           1%          
+k3d-mycluster-server-0   70m          0%       492Mi           3%          

@@ -1,0 +1,2 @@
+NAME                                     READY   STATUS             RESTARTS   AGE   IP          NODE                    NOMINATED NODE   READINESS GATES
+php-apache-deployment-66f8c5bb45-k5dr2   0/1     ImagePullBackOff   0          45h   10.42.0.8   k3d-mycluster-agent-0   <none>           <none>

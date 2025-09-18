@@ -1,0 +1,9 @@
+serviceaccount/metrics-server configured
+clusterrole.rbac.authorization.k8s.io/system:aggregated-metrics-reader configured
+clusterrole.rbac.authorization.k8s.io/system:metrics-server configured
+rolebinding.rbac.authorization.k8s.io/metrics-server-auth-reader configured
+clusterrolebinding.rbac.authorization.k8s.io/metrics-server:system:auth-delegator configured
+clusterrolebinding.rbac.authorization.k8s.io/system:metrics-server configured
+service/metrics-server configured
+deployment.apps/metrics-server configured
+apiservice.apiregistration.k8s.io/v1beta1.metrics.k8s.io configured

@@ -1,0 +1,6 @@
+NAMESPACE     NAME                 TYPE           CLUSTER-IP      EXTERNAL-IP                        PORT(S)                      AGE
+default       kubernetes           ClusterIP      10.43.0.1       <none>                             443/TCP                      41m
+default       php-apache-service   LoadBalancer   10.43.215.103   <pending>                          80:30729/TCP                 10m
+kube-system   kube-dns             ClusterIP      10.43.0.10      <none>                             53/UDP,53/TCP,9153/TCP       41m
+kube-system   metrics-server       ClusterIP      10.43.50.172    <none>                             443/TCP                      41m
+kube-system   traefik              LoadBalancer   10.43.52.17     172.18.0.2,172.18.0.3,172.18.0.4   80:31061/TCP,443:31727/TCP   35m

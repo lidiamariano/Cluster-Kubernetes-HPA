@@ -1,0 +1,18 @@
+=== qui 18 set 2025 08:45:21 -03 ===
+NAME             REFERENCE                          TARGETS              MINPODS   MAXPODS   REPLICAS   AGE
+php-apache-hpa   Deployment/php-apache-deployment   cpu: <unknown>/50%   1         5         1          45h
+=== qui 18 set 2025 08:45:26 -03 ===
+NAME             REFERENCE                          TARGETS              MINPODS   MAXPODS   REPLICAS   AGE
+php-apache-hpa   Deployment/php-apache-deployment   cpu: <unknown>/50%   1         5         1          45h
+=== qui 18 set 2025 08:45:31 -03 ===
+NAME             REFERENCE                          TARGETS              MINPODS   MAXPODS   REPLICAS   AGE
+php-apache-hpa   Deployment/php-apache-deployment   cpu: <unknown>/50%   1         5         1          45h
+=== qui 18 set 2025 08:45:36 -03 ===
+NAME             REFERENCE                          TARGETS              MINPODS   MAXPODS   REPLICAS   AGE
+php-apache-hpa   Deployment/php-apache-deployment   cpu: <unknown>/50%   1         5         1          45h
+=== qui 18 set 2025 08:45:42 -03 ===
+NAME             REFERENCE                          TARGETS              MINPODS   MAXPODS   REPLICAS   AGE
+php-apache-hpa   Deployment/php-apache-deployment   cpu: <unknown>/50%   1         5         1          45h
+=== qui 18 set 2025 08:45:47 -03 ===
+NAME             REFERENCE                          TARGETS              MINPODS   MAXPODS   REPLICAS   AGE
+php-apache-hpa   Deployment/php-apache-deployment   cpu: <unknown>/50%   1         5         1          45h
